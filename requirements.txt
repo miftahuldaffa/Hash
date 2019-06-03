@@ -1,0 +1,8 @@
+requests
+hashlib
+random
+binascii
+urllib
+re
+passlib
+scrypt
