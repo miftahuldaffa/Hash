@@ -1,4 +1,4 @@
-# [ Hash v.1.0]
+# [ Hash v.1.0 ]
 
 Hash is a Hash Encryption and Hash Dencyption for easily your job 
 
@@ -21,8 +21,6 @@ $ python2 hash.py
 <img src=".images/" />
 
 # [ Thanks to]
-```
 https://github.com/md4fv
 https://github.com/blackcodercrush
 https://github.com/CiKu370
-```
