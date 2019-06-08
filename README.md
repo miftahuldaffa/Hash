@@ -1,4 +1,4 @@
-# [ Hash v.1.0 ]
+# [ Hash v.1.0]
 
 Hash is a Hash Encryption and Hash Dencyption for easily your job 
 
@@ -17,5 +17,12 @@ $ git clone https://github.com/md4fv/Hash
 $ cd Hash
 $ python2 hash.py
 ```
-# Screenshot
+# [ Screenshot ]
 <img src=".images/" />
+
+# [ Thanks to]
+```
+https://github.com/md4fv
+https://github.com/blackcodercrush
+https://github.com/CiKu370
+```
