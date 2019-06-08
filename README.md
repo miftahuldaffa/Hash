@@ -21,6 +21,6 @@ $ python2 hash.py
 <img src=".images/" />
 
 # [ Thanks to]
-https://github.com/md4fv
-https://github.com/blackcodercrush
-https://github.com/CiKu370
+https://github.com/md4fv<br>
+https://github.com/blackcodercrush<br>
+https://github.com/CiKu370<br>
