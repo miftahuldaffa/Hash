@@ -12,8 +12,8 @@ Hash is a Hash Encryption and Hash Dencyption for easily your job
 ```
 $ apt update upgrade
 $ apt install python2 git
-$ pip install requirements
-$ git clone https://github.com/md4fv/Hashencdnc
+$ pip install requirements.txt
+$ git clone https://github.com/md4fv/Hash
 $ cd Hashencdnc
 $ python2 hash.py
 ```
