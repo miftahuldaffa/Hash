@@ -85,7 +85,7 @@ def info():
     os.system ('clear') 
     awal() 
     print B+"\n ========================"+W+" INFO "+B+"========================="
-    print B+" | "+W+"Name     "+C+":"+W+" HashEnc Dns v.1.0"+B+"                        |"
+    print B+" | "+W+"Name     "+C+":"+W+" HashEnc-Dnc v.1.0"+B+"                        |"
     print B+" | "+W+"Author   "+C+":"+W+" Dfv47"+R+"@"+W+"Mfth'DaffaHasani"+B+"                   |"
     print B+" | "+W+"Github   "+C+":"+W+" https://github.com/md4fv"+B+"                 |"
     print B+" | "+W+"Date     "+C+":"+W+" 02 - 06 - 2019"+B+"                           |"
