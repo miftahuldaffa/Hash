@@ -1,11 +1,12 @@
-# hashencdnc v.1.0
+# hash v.1.0
 
-HashEncDnc is a Hash Encryption and Hash Dencyption for easily your job 
+Hash is a Hash Encryption and Hash Dencyption for easily your job 
 
 # hasher feature
 - [x] auto detect hash
 - [x] fast decrypt
 - [x] fast decrypt
+- [x] many type hash
 
 # [ Installation ]
 ```
